@@ -1,6 +1,5 @@
 # Ignorar la carpeta "videos"
-videos/
+/videos
 
 # Ignorar todos los archivos con la extensión .txt, excepto 171.txt en la carpeta "texts"
-*.txt
 !texts/171.txt
